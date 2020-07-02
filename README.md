@@ -1,2 +1,0 @@
-# PureHome
-PureHome
